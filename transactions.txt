@@ -1,0 +1,44 @@
+Apple, Bacon, Bread, Coffee
+Apple, Bread, Cabbage, Coffee
+Cabbage, Coffee, Eggs
+Bread, Eggs, Honey, Kiwi
+Apple, Noodles, Pizza
+Bacon, Coffee, Eggs
+Bacon, Pizza
+Apple, Coffee, Honey
+Apple, Eggs, Kiwi
+Coffee, Pizza, Honey
+Cabbage, Honey, Kiwi
+Bread, Noodles
+Bacon, Cabbage, Pizza
+Apple, Bread, Coffee
+Apple, Eggs
+Eggs, Pizza
+Apple, Eggs, Kiwi
+Cabbage, Bread
+Bacon, Eggs, Noodles
+Apple, Bread, Cabbage
+Coffee, Kiwi
+Bacon, Coffee, Eggs
+Bacon, Pizza
+Apple, Eggs, Kiwi
+Apple, Coffee, Honey
+Apple, Eggs, Kiwi
+Coffee, Pizza, Honey
+Bread, Noodles
+Bacon, Cabbage, Pizza
+Apple, Bread, Coffee
+Apple, Eggs
+Eggs, Pizza
+Cabbage, Bread
+Apple, Bread, Cabbage, Coffee
+Cabbage, Coffee, Eggs
+Bread, Eggs, Honey, Kiwi
+Apple, Noodles, Pizza
+Bacon, Coffee, Eggs
+Bacon, Pizza
+Apple, Coffee, Honey
+Apple, Eggs, Kiwi
+Coffee, Pizza, Honey
+Cabbage, Honey, Kiwi
+Bread, Noodles
